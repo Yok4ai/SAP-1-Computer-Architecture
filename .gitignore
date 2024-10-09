@@ -1,0 +1,3 @@
+# ignore jar files and custom scripts
+launch.sh
+logisim-generic-2.7.1.jar 
